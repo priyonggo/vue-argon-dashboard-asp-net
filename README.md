@@ -54,9 +54,9 @@ If you want to get inspiration or just show something directly to your clients, 
 
 ## Quick start
 
-- [Download from Github](https://github.com/creativetimofficial/vue-argon-dashboard-as-net/archive/main.zip).
+- [Download from Github](https://github.com/priyonggo/vue-argon-dashboard-as-net/archive/main.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/vue-argon-dashboard-asp-net?ref=ada-asp-github-readme).
-- Clone the repo: `git clone https://github.com/creativetimofficial/vue-argon-dashboard.git`.
+- Clone the repo: `git clone https://github.com/priyonggo/vue-argon-dashboard.git`.
 - From the project root folder run `docker-compose up --build`. Note that the first time you run this the images will build.
 - Once docker-compose has finished, you will find the projects on the following URLs:
 [Dashboard](http://localhost:8080/admin/dashboard)
